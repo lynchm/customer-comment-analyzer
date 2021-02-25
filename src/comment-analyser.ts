@@ -21,8 +21,9 @@ analyser() : Map<string, number>{
     });
     rl.on('line', (line) => {
         console.log(line);
-        switch(line){ 
-        }
+        // switch(line){ 
+        //     case 
+        // }
     });
     return resultMap;
 }
